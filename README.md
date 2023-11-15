@@ -36,7 +36,7 @@ This is an Employee Management System built using Flask, a Python web framework.
 
 To set up and run the Employee Management System, follow these steps:
 
-1. Clone the repository: `$ git clone https://github.com/your-repo.git`
+1. Clone the repository: `$ git clone https://github.com/Bansikah/Employee-management-system.git`
 2. Navigate to the project directory: `$ cd employee-management-system`
 3. Create a virtual environment: `$ python3 -m venv venv`
 4. Activate the virtual environment:
